@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(176, 234, 252);
+    background-image: linear-gradient(rgb(176, 234, 252), white);
+    font-size: 20px;
+}
+header{
+    position: fixed;
+}
+header a{
+    display: inline-block;
+    padding: 20px 50px;
+    background-color: greenyellow;
+    text-decoration: none;
+}
+a:hover{
+    background-color: lightgreen;
+}
+h1{
+    text-align: center;
+    text-shadow: 3px 3px white;
+}
+ol li{
+    padding: 20px;
+}
+#projekat{
+    text-align: center;
+    padding: 20px;
+}
+#form{
+    padding: 20px;
+}
+footer{
+    background-color: lightgrey;
+    padding: 20px;
+    text-align: center;
+}
