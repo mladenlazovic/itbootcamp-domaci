@@ -6,7 +6,7 @@ let cena = 650
 let precnik = 26
 
 let r = precnik / 2
-let povrsina = r **2 * Math.PI
+let povrsina = r ** 2 * Math.PI
 
 
 let cenaPoCmKvadrat = cena / povrsina
