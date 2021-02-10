@@ -1,0 +1,45 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "Тврд је орах, воћка чудновата",
+      "author": "П.П.Његош"
+    },
+    {
+      "id": "06900940-6ba9-11eb-87fc-8ddc1b49c4b5",
+      "text": "New quote",
+      "author": "Me"
+    },
+    {
+      "id": "40439cb0-6ba9-11eb-87fc-8ddc1b49c4b5",
+      "text": "Another quote",
+      "author": "another me"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Pera",
+      "email": "peraperic@pera.com",
+      "password": "asdf1234"
+    },
+    {
+      "id": "e0736b20-6bc2-11eb-81cd-e7bcbc4211b1",
+      "username": "newMe",
+      "email": "newme",
+      "password": "12345"
+    },
+    {
+      "id": "5f7d5230-6bc5-11eb-a2af-eb332825be1a",
+      "username": "noviUser",
+      "email": "nu@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "941e38b0-6bc5-11eb-a2af-eb332825be1a",
+      "username": "noviUser1",
+      "email": "nu@gmail.com",
+      "password": "123123"
+    }
+  ]
+}
